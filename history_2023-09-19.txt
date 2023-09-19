@@ -1,0 +1,23 @@
+    1  mKdocs
+    2  MKDocs
+    3  mKDocs
+    4  apt
+    5  sudo apt install mkdocs
+    6  apt> apt.txt
+    7  mKdocs
+    8  apt
+    9  install
+   10  apt
+   11  apt install
+   12  apt
+   13  sudo apt update
+   14  sudo apt install
+   15  sudo apt install mkdocs
+   16  mkdocs
+   17  mkdocs > mkdocs.txt
+   18  mkdocs new
+   19  mkdocs new.
+   20  mkdocs serve
+   21  mkdocs
+   22  mkdocs gh-deploy
+   23  history > history_2023-09-19.txt
